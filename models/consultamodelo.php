@@ -1,7 +1,7 @@
 <?php
 
 require_once 'models/libro.php';
-class LibroNuevo extends Model{
+class ConsultaModelo extends Model{
 
     
     public function __construct(){

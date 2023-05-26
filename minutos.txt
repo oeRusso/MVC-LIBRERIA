@@ -1,2 +1,2 @@
-# TODO: Ejemplo de MVC con PHP Parte 6  MIN 10.00
+# TODO: Ejemplo de MVC con PHP Parte 6  MIN 21.00
 

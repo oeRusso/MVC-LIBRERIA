@@ -12,6 +12,8 @@
 
     <div id="main">
         <h1 class="center">Seccion de consulta</h1>
+        <?php var_dump($this->libros); ?>
+        
     </div>
     <?php require 'views/footer.php' ?>
 </body>
